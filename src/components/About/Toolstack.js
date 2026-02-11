@@ -5,11 +5,9 @@ import {
   SiPostman,
   SiJira,
   SiGitlab,
-  SiTrello,
   SiGithub,
   SiVisualstudiocode,
   SiPowershell,
-  SiWindows,
 } from "react-icons/si";
 import { FaTerminal } from "react-icons/fa";
 import { DiGit } from "react-icons/di";

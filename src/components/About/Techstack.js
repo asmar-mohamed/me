@@ -11,7 +11,6 @@ import {
 } from "react-icons/di";
 import {
   SiNextdotjs,
-  SiPhp,
   SiLaravel,
   SiSpringboot,
   SiMysql,
